@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9569892
+color:
+  saturation: 0.06834786
+  lightness: 0.3781362
+  brandStrength: 0.9605735
+  rhythmicContrast: 0.2342388
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: cecivirtue
